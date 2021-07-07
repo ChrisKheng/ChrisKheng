@@ -2,7 +2,7 @@
 ## About Me &nbsp;👨🏻‍💻
 🎓 &nbsp;I'm a final year computer science undergraduate at the National University of Singapore. I specialise in parallel computing and database systems.\
 💻 &nbsp;I'm experienced in backend web development through internships and university assignments. Currently, I'm in a data engineering internship.\
-❤️ &nbsp;My interest is parallel computing, cloud computing, and distributed systems.\
+❤️ &nbsp;My interest is parallel computing, distributed systems, and database systems.\
 🌱 &nbsp;I'm currently learning system design and big data frameworks such as Spark, HDFS, and Hive.
 
 
