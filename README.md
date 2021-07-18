@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-50%25-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)&nbsp;
 ![C++](https://img.shields.io/badge/C++-60%25-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)&nbsp;
+![Scala](https://img.shields.io/badge/Scala-50%25-informational?style=flat&logo=scala&logoColor=white&color=2bbc8a)&nbsp;
 ![Python](https://img.shields.io/badge/Python-50%25-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)&nbsp;
 
 ![SQL](https://img.shields.io/badge/SQL-70%25-informational?style=flat&color=2bbc8a)&nbsp;
