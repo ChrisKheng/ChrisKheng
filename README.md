@@ -1,9 +1,9 @@
 # Hey there! I'm Yau Dong <img src="./wave.gif" width="30px">
 ## About Me &nbsp;👨🏻‍💻
 🎓 &nbsp;I'm a final year computer science undergraduate at the National University of Singapore. I specialise in parallel computing and database systems.\
-💻 &nbsp;I'm experienced in backend web development through internships and university assignments. Currently, I'm in a data engineering internship.\
+💻 &nbsp;I'm experienced in data engineering with Spark and backend web development with Node.js through internships.\
 ❤️ &nbsp;My interest is parallel computing, distributed systems, and database systems.\
-🌱 &nbsp;I'm currently learning system design and big data frameworks such as Spark, HDFS, and Hive.
+🌱 &nbsp;I'm currently learning system design and system performance.
 
 
 ## Connect with Me &nbsp;🤝
@@ -24,14 +24,17 @@
 ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-65%25-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=2bbc8a)&nbsp;
 
 ### Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-60%25-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)&nbsp;
+![Spark](https://img.shields.io/badge/Spark-60%25-informational?style=flat&logo=apachespark&logoColor=white&color=2bbc8a)&nbsp;
+![Airflow](https://img.shields.io/badge/Airflow-70%25-informational?style=flat&logo=apacheairflow&logoColor=white&color=2bbc8a)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-60%25-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)&nbsp;
-![Node.js](https://img.shields.io/badge/Node%2Ejs-65%25-informational?style=flat&logo=node%2Ejs&logoColor=white&color=2bbc8a)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-60%25-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)&nbsp;
+![Node.js](https://img.shields.io/badge/Node%2Ejs-60%25-informational?style=flat&logo=node%2Ejs&logoColor=white&color=2bbc8a)&nbsp;
 ![React.js](https://img.shields.io/badge/React%2Ejs-50%25-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)&nbsp;
 ![Redux.js](https://img.shields.io/badge/Redux%2Ejs-50%25-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-70%25-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)&nbsp;
 ![Git](https://img.shields.io/badge/Git-70%25-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-50%25-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-40%25-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-40%25-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)&nbsp;
 
 
 ## GitHub Stats &nbsp;📈
