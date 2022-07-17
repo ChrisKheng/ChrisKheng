@@ -1,6 +1,5 @@
 # Hey there! I'm Yau Dong <img src="./wave.gif" width="30px">
 ## About Me &nbsp;👨🏻‍💻
-🎓 &nbsp;I'm a final year computer science undergraduate at the National University of Singapore. I specialise in parallel computing and database systems.\
 💻 &nbsp;I'm experienced in data engineering with Spark and backend web development with Node.js through internships.\
 ❤️ &nbsp;My interest is parallel computing, distributed systems, and database systems.
 
