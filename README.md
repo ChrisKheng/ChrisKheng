@@ -1,6 +1,6 @@
 # Hey there! I'm Yau Dong <img src="./wave.gif" width="30px">
 ## About Me &nbsp;👨🏻‍💻
-💻 &nbsp;I'm experienced in data engineering with Spark and backend web development with Node.js through internships.\
+💻 &nbsp;I'm experienced in data engineering with Spark and backend web development with Node.js.\
 ❤️ &nbsp;My interest is parallel computing, distributed systems, and database systems.
 
 
